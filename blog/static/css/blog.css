@@ -1,5 +1,5 @@
 .page-header {
-    background-color: black;
+    background-image: url('../images/mountain background.jpg') ;
     margin-top: 0;
     margin-left: 0;
     padding: 20px 20px 50px 40px;
@@ -15,20 +15,19 @@ pre {
 	}
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #84d240;
+    color: #b2e1e7a8;
     font-size: 36pt;
     text-decoration: none;
 }
-.nav span{
-    color: #84d240;
-}
+
 .content {
     margin-left: 40px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Impact';
 }
+
 
 .date {
     color: #828282;
@@ -54,7 +53,7 @@ h1, h2, h3, h4 {
 }
 
 .post h2 a, .post h2 a:visited {
-    color: blue;
+    color: black;
 }
 
 button {
